@@ -10,7 +10,7 @@ function App() {
   return <main>
     <NavBar />
     <Hero />
-    <div className="h-screen"></div>
+    
   </main>
 }
 
